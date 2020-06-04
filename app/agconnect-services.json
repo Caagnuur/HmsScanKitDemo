@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890090000023105685",
+		"product_id":"736430079244488836",
+		"client_id":"376098028559271040",
+		"client_secret":"6C86C5B698A1890613A40B6A0DFED456F258342115A267448E4C42D0D1624B74",
+		"app_id":"102331611",
+		"package_name":"com.huawei.hmsscankitdemo",
+		"api_key":"CV796GtuH4rrMTP8PSNEGH4JbTqLARNsrzD8kgVNM3Jyw+EFB3dsLqR/S4HoM2k+zBeUivKdFZ8c4mWMGq3TCoP+m4eJ"
+	},
+	"configuration_version":"1.0"
+}

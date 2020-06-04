@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HmsScanKitDemo</string>
+    <string name="bitmap_mode">bitmap_mode</string>
+</resources>
